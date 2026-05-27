@@ -1,5 +1,12 @@
-## Hi there 👋
+Heyo!👋
 
+Currently working as a designer for the creative agency, [Whiteboard](https://www.whiteboard.is/).
+<br>
+<br>
+But.... that isn't what this space is for!
+<br>
+In my free time I use this space to explore code related things, usually private repos (sorry), <br>
+but sometimes the odd occasional project is available to peruse! Enjoy!
 <!--
 **Slushy222/Slushy222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
