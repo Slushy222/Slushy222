@@ -1,8 +1,12 @@
-Heyo!👋
+Heyo!🛸
 
 Currently working as a designer for the creative agency, [Whiteboard](https://www.whiteboard.is/).
 <br>
 <br>
+
+You can find me at [taylorsampson.art](https://www.taylorsampson.art/)
+<br>
+
 But.... that isn't what this space is for!
 <br>
 In my free time I use this space to explore code related things, usually private repos (sorry), <br>
