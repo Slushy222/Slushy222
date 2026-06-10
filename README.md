@@ -1,9 +1,5 @@
 Heyo!🛸
 
-Currently working as a designer for the creative agency, [Whiteboard](https://www.whiteboard.is/).
-<br>
-<br>
-
 You can find me at [taylorsampson.art](https://www.taylorsampson.art/)
 <br>
 
